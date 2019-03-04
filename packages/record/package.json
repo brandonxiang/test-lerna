@@ -13,10 +13,7 @@
   "files": [
     "lib"
   ],
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
   "dependencies": {
-    "@test-lerna/request": "^0.0.1"
+    "@test-lerna/base-request": "^0.0.1"
   }
 }

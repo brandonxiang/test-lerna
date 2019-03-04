@@ -1,5 +1,5 @@
 {
-  "name": "@test-lerna/request",
+  "name": "@test-lerna/base-request",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
