@@ -5,5 +5,5 @@ module.exports = request;
 function request() {
     // TODO
 
-    return 3;
+    return 6;
 }

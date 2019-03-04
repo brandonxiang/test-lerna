@@ -5,6 +5,7 @@
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
   "homepage": "",
   "license": "ISC",
+  "private": true,
   "main": "lib/record.js",
   "directories": {
     "lib": "lib",
