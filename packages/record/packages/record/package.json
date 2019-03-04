@@ -1,0 +1,22 @@
+{
+  "name": "@test-lerna/record",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/record.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@test-lerna/request": "0.0.0"
+  }
+}
