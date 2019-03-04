@@ -6,7 +6,7 @@
   "npmClient": "npm",
   "command": {
     "publish": {
-      "packages": "packages/base-*",
+      "scope": "packages/base-*",
       "ignoreChanges": ["ignored-file", "*.md"],
       "message": "chore(release): publish"
     }
