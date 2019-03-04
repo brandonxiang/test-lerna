@@ -1,6 +1,6 @@
 {
   "name": "@test-lerna/record",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@test-lerna/request": "0.0.0"
+    "@test-lerna/request": "^0.0.1"
   }
 }
