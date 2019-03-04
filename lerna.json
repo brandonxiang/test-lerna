@@ -14,7 +14,8 @@
     "publish": {
       "ignoreChanges": [
         "ignored-file",
-        "*.md"
+        "*.md",
+        "src/*"
       ],
       "message": "chore(release): publish"
     }
