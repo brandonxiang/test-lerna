@@ -5,8 +5,10 @@
   "version": "0.0.2",
   "npmClient": "npm",
   "command": {
+    "bootstrap": {
+      "npmClientArgs": ["--no-package-lock"]
+    },
     "publish": {
-      "scope": "packages/base-*",
       "ignoreChanges": ["ignored-file", "*.md"],
       "message": "chore(release): publish"
     }

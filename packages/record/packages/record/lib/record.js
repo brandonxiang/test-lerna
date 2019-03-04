@@ -1,5 +1,5 @@
 'use strict';
-const request = require('@test-lerna/request')
+const request = require('@test-lerna/base-request')
 
 module.exports = record;
 
