@@ -1,6 +1,6 @@
 {
   "name": "@test-lerna/record",
-  "version": "0.0.4",
+  "version": "0.0.5-alpha.0",
   "description": "> TODO: description",
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
   "homepage": "",
@@ -14,6 +14,6 @@
     "lib"
   ],
   "dependencies": {
-    "@test-lerna/base-request": "^0.0.4"
+    "@test-lerna/base-request": "^0.0.5-alpha.0"
   }
 }
