@@ -1,5 +1,5 @@
 {
-  "name": "base-utils",
+  "name": "base-utils-1",
   "version": "0.0.7",
   "description": "> TODO: description",
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "de84986b89dcad531d1462c853962ef33475b20b"
+  "gitHead": "aa1d818d61a674005d61c8d3c77364d111b1daa0"
 }

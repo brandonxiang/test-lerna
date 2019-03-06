@@ -1,5 +1,6 @@
 {
-  "name": "record",
+  "name": "record-1",
+  "private": true,
   "version": "0.0.7",
   "description": "> TODO: description",
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
@@ -16,5 +17,5 @@
   "dependencies": {
     "@test-lerna/base-request": "^0.0.6"
   },
-  "gitHead": "de84986b89dcad531d1462c853962ef33475b20b"
+  "gitHead": "aa1d818d61a674005d61c8d3c77364d111b1daa0"
 }
