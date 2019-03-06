@@ -1,5 +1,5 @@
 {
-  "name": "@brandon/base-request",
+  "name": "@brandonxiang/base-request",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
@@ -19,5 +19,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "aef57645281efb88692aa1967c5b3cf6a255f226"
+  "gitHead": "1a5f8966f04bd6e9e672e6ed371ed5c780cceac1"
 }
