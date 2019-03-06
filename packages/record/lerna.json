@@ -12,10 +12,12 @@
       ]
     },
     "publish": {
+      "ignore": [
+        "src/*"
+      ],
       "ignoreChanges": [
         "ignored-file",
-        "*.md",
-        "src/*"
+        "*.md"
       ],
       "message": "chore(release): publish"
     }
