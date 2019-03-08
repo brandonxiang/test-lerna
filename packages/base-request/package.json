@@ -1,6 +1,6 @@
 {
   "name": "brandon-request",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "lerna demo",
   "author": "xiangweiping103 <xiangweiping103@pingan.com.cn>",
   "homepage": "",
@@ -21,7 +21,6 @@
     "access": "public"
   },
   "gitHead": "1a5f8966f04bd6e9e672e6ed371ed5c780cceac1",
-  "dependencies": {},
   "devDependencies": {
     "bili": "^4.4.0"
   }
