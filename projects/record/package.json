@@ -1,6 +1,6 @@
 {
   "name": "record",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,8 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "brandon-request": "^0.0.12",
-    "brandon-utils": "^0.0.12",
+    "brandon-request": "^0.0.13",
+    "brandon-utils": "^0.0.13",
     "vue": "^2.6.6"
   },
   "devDependencies": {
