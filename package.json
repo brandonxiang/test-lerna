@@ -5,6 +5,6 @@
     "lerna": "^3.13.0"
   },
   "scripts": {
-    "serve": "lerna run serve --stream --scope record"
+    "serve": "lerna run serve --stream --scope record1"
   }
 }
