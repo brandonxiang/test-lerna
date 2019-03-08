@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "vue": "^2.6.6",
-    "@brandonxiang/base-utils": "^0.0.9"
+    "brandon-request": "^0.0.11",
+    "brandon-utils": "^0.0.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",

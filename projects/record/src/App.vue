@@ -1,13 +1,16 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld :msg="name"/>
+    <HelloWorld :msg="requestName"/>
+    <HelloWorld :msg="utilsName"/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import utils from '@branonxiang/base-utils'
+import { request } from 'brandon-request'
+import { utils } from 'brandon-utils'
+
 
 export default {
   name: 'app',
@@ -17,7 +20,9 @@ export default {
 
   data()  {
     return {
-      name: utils()
+      requestName: request(),
+      utilsName: utils()
+      // name: utils()
     }
   }
 }

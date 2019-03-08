@@ -1,10 +1,8 @@
 'use strict';
 
+module.exports = utils;
 
 function utils() {
     // TODO
-    return 1;
+    return '11';
 }
-
-
-export default utils
