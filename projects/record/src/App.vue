@@ -3,13 +3,17 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld :msg="requestName"/>
     <HelloWorld :msg="utilsName"/>
+    <HelloWorld :msg="requestNextName"/>
+    <HelloWorld :msg="testUtilName"/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import { request } from 'brandon-request'
+import { request, requestNext } from 'brandon-request'
 import { utils } from 'brandon-utils'
+// const testUtil = require('base-test')
+import { testUtil } from 'base-test'
 
 
 export default {
@@ -21,7 +25,9 @@ export default {
   data()  {
     return {
       requestName: request(),
-      utilsName: utils()
+      utilsName: utils(),
+      requestNextName: requestNext(),
+      testUtilName: testUtil(),
       // name: utils()
     }
   }

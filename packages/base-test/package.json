@@ -1,0 +1,33 @@
+{
+  "name": "base-test",
+  "version": "0.0.13",
+  "description": "> TODO: description",
+  "author": "liuzhujun326 <liuzhujun326@pingan.com.cn>",
+  "homepage": "https://github.com/brandonxiang/test-lerna#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonxiang/test-lerna.git"
+  },
+  "scripts": {
+    "prepare": "bili index.js --format cjs,esm"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonxiang/test-lerna/issues"
+  },
+  "devDependencies": {
+    "bili": "^4.4.0"
+  }
+}

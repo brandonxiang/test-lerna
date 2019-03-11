@@ -10,6 +10,7 @@
   "dependencies": {
     "brandon-request": "^0.0.13",
     "brandon-utils": "^0.0.13",
+    "base-test": "^0.0.13",
     "vue": "^2.6.6"
   },
   "devDependencies": {
