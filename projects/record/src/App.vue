@@ -4,7 +4,7 @@
     <HelloWorld :msg="requestName"/>
     <HelloWorld :msg="utilsName"/>
     <HelloWorld :msg="requestNextName"/>
-    <HelloWorld :msg="testUtilName"/>
+    <!-- <HelloWorld :msg="testUtilName"/> -->
   </div>
 </template>
 
